@@ -1,0 +1,15 @@
+/Users/dani/Projects/github/SimpleChat/bin/Debug/net6.0/SimpleChat
+/Users/dani/Projects/github/SimpleChat/bin/Debug/net6.0/SimpleChat.deps.json
+/Users/dani/Projects/github/SimpleChat/bin/Debug/net6.0/SimpleChat.runtimeconfig.json
+/Users/dani/Projects/github/SimpleChat/bin/Debug/net6.0/SimpleChat.dll
+/Users/dani/Projects/github/SimpleChat/bin/Debug/net6.0/SimpleChat.pdb
+/Users/dani/Projects/github/SimpleChat/obj/Debug/net6.0/SimpleChat.csproj.AssemblyReference.cache
+/Users/dani/Projects/github/SimpleChat/obj/Debug/net6.0/SimpleChat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dani/Projects/github/SimpleChat/obj/Debug/net6.0/SimpleChat.AssemblyInfoInputs.cache
+/Users/dani/Projects/github/SimpleChat/obj/Debug/net6.0/SimpleChat.AssemblyInfo.cs
+/Users/dani/Projects/github/SimpleChat/obj/Debug/net6.0/SimpleChat.csproj.CoreCompileInputs.cache
+/Users/dani/Projects/github/SimpleChat/obj/Debug/net6.0/SimpleChat.dll
+/Users/dani/Projects/github/SimpleChat/obj/Debug/net6.0/refint/SimpleChat.dll
+/Users/dani/Projects/github/SimpleChat/obj/Debug/net6.0/SimpleChat.pdb
+/Users/dani/Projects/github/SimpleChat/obj/Debug/net6.0/SimpleChat.genruntimeconfig.cache
+/Users/dani/Projects/github/SimpleChat/obj/Debug/net6.0/ref/SimpleChat.dll
